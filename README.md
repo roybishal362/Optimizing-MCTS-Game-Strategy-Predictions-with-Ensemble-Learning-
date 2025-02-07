@@ -24,7 +24,7 @@ The dataset contains match outcomes between different MCTS agents across **1,000
 I explored **four different approaches** to optimize the prediction model, experimenting with various feature engineering techniques, ensembling methods, and hyperparameter tuning.
 
 ### 🔥 Best Performing Approach: **Approach 2**
-The best-performing model was developed in **Approach 2**, achieving an RMSE of **X.XXXX** on the private leaderboard, securing **Rank 755 / 1600** in the competition.
+The best-performing model was developed in **Approach 2**, achieving an RMSE of **0.43008** on the private leaderboard, securing **Rank 755 / 1600** in the competition.
 
 ### 🚀 **Technical Stack Used in Approach 2**
 - **Feature Engineering**:
@@ -51,7 +51,7 @@ The best-performing model was developed in **Approach 2**, achieving an RMSE of 
 
 ## 📈 Results & Leaderboard Performance
 - **Rank Achieved**: 🏆 **755 / 1600** participants
-- **Best RMSE Score**: **X.XXXX** (Approach 2)
+- **Best RMSE Score**: **0.43008** (Approach 2)
 
 ---
 
