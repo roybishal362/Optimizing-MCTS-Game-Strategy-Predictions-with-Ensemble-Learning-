@@ -76,6 +76,7 @@ jupyter notebook um-game-playing-strength-of-mcts-approach-2.ipynb
 
 ## 📜 Acknowledgments
 This work was developed as part of the Kaggle Competition **"UM Game Playing Strength of MCTS Variants"**. Special thanks to the Kaggle community for discussions and valuable insights.
+
 Dataset:- https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants/data
 ---
 
