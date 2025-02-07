@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+catboost
+tqdm
+numba
+matplotlib
+seaborn
+bayesian-optimization
+tensorflow
+polars
+pytorch
